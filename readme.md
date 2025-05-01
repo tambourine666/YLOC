@@ -12,7 +12,7 @@ To run this project, ensure you have the following dependencies installed:
 - tqdm
 - sklearn
 - numpy
-
+or you can intsall your package directly by pip install -r requirements.txt
 
 
 ## Running Procedure
