@@ -1,7 +1,9 @@
 # YLOC
 
 ## Description
-YLOC is a project designed for few-shot class incremental learning. The project utilizes various public datasets, including CIFAR-100, CUB-200, and MiniImageNet. The datasets can be found [here](https://github.com/icoz69/CEC-CVPR2021).
+YLOC is a project designed for few-shot class incremental learning. 
+
+The project utilizes various public datasets, including CIFAR-100, CUB-200, and MiniImageNet. The datasets can be found [here](https://github.com/icoz69/CEC-CVPR2021).
 
 ## Requirements
 To run this project, ensure you have the following dependencies installed:
