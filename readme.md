@@ -24,8 +24,10 @@ To run this project, ensure you have the following dependencies installed:
 ## Acknowledgements
 We thank the following repositories for providing helpful components and functions in our work:
 
-1. [FACT](https://github.com/zhoudw-zdw/CVPR22-Fact)
-2. [SAVC](https://github.com/zysong0113/SAVC)
+
+1. [C-FCIL](https://github.com/IBM/constrained-FSCIL)
+2. [FACT](https://github.com/zhoudw-zdw/CVPR22-Fact)
+3. [SAVC](https://github.com/zysong0113/SAVC)
 
 
 
