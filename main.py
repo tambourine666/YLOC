@@ -327,10 +327,10 @@ if args.which in ['simulation', 'experiment']:
 
         if parameters['dataset'] == 'cub200':
             print('Using CUB200 training specs, Backbone is ResNet 18.')
-            from lib.run_FSCIL_cub import pretrain_baseFSCIL, train_FSCIL, metatrain_baseFSCIL
+            from lib.run_FSCIL_cub import pretrain_baseFSCIL, train_FSCIL
         else:
             print('Using CIFAR100/MINI-IMAGENET training specs, Backbone is ResNet 12.')
-            from lib.run_FSCIL import pretrain_baseFSCIL, train_FSCIL, metatrain_baseFSCIL
+            from lib.run_FSCIL import pretrain_baseFSCIL, train_FSCIL
 
         parameters['experiment_dir'] = parameters['log_dir'] + '/experiment'
 
